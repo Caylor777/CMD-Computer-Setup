@@ -1,0 +1,9 @@
+chrome : Google.Chrome
+OperaGX : Opera.OperaGX
+OperaGX : Opera.OperaGX
+Opera : Opera.Opera
+FireFox : Mozilla.Firefox
+Steam : Valve.Steam
+Spotify : Spotify.Spotify
+Discord : Discord.Discord
+Medal : MedalB.V.Medal
